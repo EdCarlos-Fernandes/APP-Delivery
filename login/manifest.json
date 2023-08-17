@@ -1,0 +1,17 @@
+{
+  "name": "MPedidos! Admin",
+  "short_name": "MPedidos! Admin",
+  "theme_color": "#261C43",
+  "background_color": "#261C43",
+  "display": "fullscreen",
+  "Scope": "https://mpedidos.com/login/index.php",
+  "start_url": "https://mpedidos.com/login/index.php",
+  "icons": [
+    {
+      "src": "https://mpedidos.com/login/img/258x258.png",
+      "sizes": "1080x1080",
+      "type": "image/png"
+    } 
+  ],
+  "splash_pages": null
+}
