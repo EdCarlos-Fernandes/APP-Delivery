@@ -1,0 +1,5 @@
+[05-Sep-2020 18:18:39 America/Sao_Paulo] {"message":"installments invalid. Should be a number between 1 and 36.","error":"bad_request","status":400,"cause":null}
+[20-Apr-2022 17:37:52 America/Sao_Paulo] {"message":"unit_price needed","error":"invalid_items","status":400,"cause":null}
+[05-May-2022 10:01:53 America/Sao_Paulo] {"message":"unit_price needed","error":"invalid_items","status":400,"cause":null}
+[04-Jun-2022 00:55:28 America/Sao_Paulo] {"message":"unit_price needed","error":"invalid_items","status":400,"cause":null}
+[04-Jun-2022 00:55:58 America/Sao_Paulo] {"message":"unit_price needed","error":"invalid_items","status":400,"cause":null}
